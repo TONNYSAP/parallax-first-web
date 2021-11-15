@@ -1,0 +1,44 @@
+body {
+    background: #b1afaf;
+}
+
+h3 {
+    text-align: center;
+
+    font-size: 34px;
+}
+
+section {
+    background-color: #000;
+    padding: 35px 15px 35px 15px;
+    width: 450px;
+
+    margin: auto;
+    margin-top: 10%;
+}
+
+label {
+    color: #fff;
+}
+
+input {
+    padding: 5px 65px 5px 0px;
+    border-radius: 8px;
+    border: none;
+
+    color: rgb(190, 188, 188);    
+}
+
+button {
+    background-color: red;
+
+    color: #fff;
+    font-weight: bold;
+    padding: 2px 10px 2px 10px;
+    
+    cursor: pointer;
+}
+
+label, input, button {
+    margin-left: 105px;
+}
